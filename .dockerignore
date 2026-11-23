@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+myenv/
+venv/
+.venv/
+env/
+ENV/
+
+# Git and Editor configurations
+.git/
+.gitignore
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables & secrets
+.env
+*.env
+
+# Testing & Logs
+.pytest_cache/
+*.log
+
+# Docker specific
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# OS specific files
+.DS_Store
+Thumbs.db
